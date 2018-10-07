@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#pragram warning (disable:4996)
 main ()
 {
 double l, w, h;
